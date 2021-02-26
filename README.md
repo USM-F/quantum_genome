@@ -34,6 +34,6 @@ for sample, energy in response.data(['sample', 'energy']):
 result.append(response.info) # view timings
 spins, energy = [result[0][i] for i in result[0].keys()], result[1]
 ```
-In spins equal 1 is coded node position i = (spin index) % (sequence length - 2)
+In spins equal 1 is coded node position in Hamiltonian path i = (spin index) % (sequence length - 2)
 
 For more detailed examples see example.ipynb
