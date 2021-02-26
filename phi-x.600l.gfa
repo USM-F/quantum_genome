@@ -1,0 +1,299 @@
+H	VN:Z:1.0
+S	24	*	LN:i:600
+S	4	*	LN:i:600
+S	14	*	LN:i:600
+S	44	*	LN:i:600
+S	10	*	LN:i:600
+S	45	*	LN:i:600
+S	25	*	LN:i:600
+S	33	*	LN:i:600
+S	8	*	LN:i:600
+S	49	*	LN:i:600
+S	50	*	LN:i:600
+S	37	*	LN:i:600
+S	34	*	LN:i:600
+S	42	*	LN:i:600
+S	23	*	LN:i:600
+S	36	*	LN:i:600
+S	11	*	LN:i:600
+S	39	*	LN:i:600
+S	15	*	LN:i:600
+S	5	*	LN:i:600
+S	12	*	LN:i:600
+S	3	*	LN:i:600
+S	48	*	LN:i:600
+S	7	*	LN:i:600
+S	27	*	LN:i:600
+S	32	*	LN:i:600
+S	30	*	LN:i:600
+S	19	*	LN:i:600
+S	41	*	LN:i:600
+S	13	*	LN:i:600
+S	1	*	LN:i:600
+S	29	*	LN:i:600
+S	38	*	LN:i:600
+S	35	*	LN:i:600
+S	26	*	LN:i:600
+S	31	*	LN:i:600
+S	16	*	LN:i:600
+S	43	*	LN:i:600
+S	6	*	LN:i:600
+S	40	*	LN:i:600
+S	47	*	LN:i:600
+S	18	*	LN:i:600
+S	20	*	LN:i:600
+S	17	*	LN:i:600
+S	2	*	LN:i:600
+S	21	*	LN:i:600
+S	46	*	LN:i:600
+S	28	*	LN:i:600
+S	9	*	LN:i:600
+S	22	*	LN:i:600
+L	5	-	3	+	327M	NM:i:0	om:f:0.01
+L	4	-	6	+	127M	NM:i:0	om:f:0.01
+L	4	-	7	-	405M	NM:i:0	om:f:0.01
+L	7	-	6	+	321M	NM:i:0	om:f:0.01
+L	8	-	3	+	403M	NM:i:0	om:f:0.01
+L	5	-	8	-	523M	NM:i:0	om:f:0.01
+L	9	-	5	-	312M	NM:i:0	om:f:0.01
+L	9	-	8	-	236M	NM:i:0	om:f:0.01
+L	10	-	2	+	556M	NM:i:0	om:f:0.01
+L	4	-	11	-	529M	NM:i:0	om:f:0.01
+L	11	-	6	+	197M	NM:i:0	om:f:0.01
+L	11	-	7	-	475M	NM:i:0	om:f:0.01
+L	12	+	1	+	342M	NM:i:0	om:f:0.01
+L	6	+	13	-	279M	NM:i:0	om:f:0.01
+L	13	-	10	-	140M	NM:i:0	om:f:0.01
+L	14	+	2	+	106M	NM:i:0	om:f:0.01
+L	6	+	14	+	270M	NM:i:0	om:f:0.01
+L	14	+	10	-	149M	NM:i:0	om:f:0.01
+L	13	-	14	+	590M	NM:i:0	om:f:0.01
+L	1	+	15	+	433M	NM:i:0	om:f:0.01
+L	15	+	4	-	158M	NM:i:0	om:f:0.01
+L	12	+	15	+	176M	NM:i:0	om:f:0.01
+L	16	+	1	+	429M	NM:i:0	om:f:0.01
+L	12	+	16	+	512M	NM:i:0	om:f:0.01
+L	16	+	15	+	263M	NM:i:0	om:f:0.01
+L	17	-	2	+	421M	NM:i:0	om:f:0.01
+L	17	-	10	-	464M	NM:i:0	om:f:0.01
+L	13	-	17	-	275M	NM:i:0	om:f:0.01
+L	14	+	17	-	284M	NM:i:0	om:f:0.01
+L	18	+	1	+	533M	NM:i:0	om:f:0.01
+L	12	+	18	+	408M	NM:i:0	om:f:0.01
+L	18	+	15	+	367M	NM:i:0	om:f:0.01
+L	16	+	18	+	495M	NM:i:0	om:f:0.01
+L	6	+	19	+	564M	NM:i:0	om:f:0.01
+L	7	-	19	+	286M	NM:i:0	om:f:0.01
+L	11	-	19	+	162M	NM:i:0	om:f:0.01
+L	19	+	13	-	314M	NM:i:0	om:f:0.01
+L	19	+	14	+	305M	NM:i:0	om:f:0.01
+L	20	-	2	+	400M	NM:i:0	om:f:0.01
+L	20	-	10	-	443M	NM:i:0	om:f:0.01
+L	13	-	20	-	296M	NM:i:0	om:f:0.01
+L	14	+	20	-	305M	NM:i:0	om:f:0.01
+L	20	-	17	-	578M	NM:i:0	om:f:0.01
+L	21	+	9	-	114M	NM:i:0	om:f:0.01
+L	22	-	2	+	572M	NM:i:0	om:f:0.01
+L	10	-	22	-	583M	NM:i:0	om:f:0.01
+L	13	-	22	-	124M	NM:i:0	om:f:0.01
+L	14	+	22	-	133M	NM:i:0	om:f:0.01
+L	17	-	22	-	448M	NM:i:0	om:f:0.01
+L	20	-	22	-	427M	NM:i:0	om:f:0.01
+L	4	-	23	+	505M	NM:i:0	om:f:0.01
+L	23	+	6	+	221M	NM:i:0	om:f:0.01
+L	23	+	7	-	499M	NM:i:0	om:f:0.01
+L	11	-	23	+	575M	NM:i:0	om:f:0.01
+L	23	+	19	+	186M	NM:i:0	om:f:0.01
+L	2	+	24	-	312M	NM:i:0	om:f:0.01
+L	10	-	24	-	269M	NM:i:0	om:f:0.01
+L	17	-	24	-	134M	NM:i:0	om:f:0.01
+L	20	-	24	-	113M	NM:i:0	om:f:0.01
+L	22	-	24	-	285M	NM:i:0	om:f:0.01
+L	25	-	2	+	209M	NM:i:0	om:f:0.01
+L	6	+	25	-	167M	NM:i:0	om:f:0.01
+L	25	-	10	-	252M	NM:i:0	om:f:0.01
+L	13	-	25	-	487M	NM:i:0	om:f:0.01
+L	14	+	25	-	496M	NM:i:0	om:f:0.01
+L	25	-	17	-	387M	NM:i:0	om:f:0.01
+L	19	+	25	-	202M	NM:i:0	om:f:0.01
+L	25	-	20	-	408M	NM:i:0	om:f:0.01
+L	25	-	22	-	236M	NM:i:0	om:f:0.01
+L	2	+	26	+	290M	NM:i:0	om:f:0.01
+L	10	-	26	+	247M	NM:i:0	om:f:0.01
+L	17	-	26	+	112M	NM:i:0	om:f:0.01
+L	22	-	26	+	263M	NM:i:0	om:f:0.01
+L	24	-	26	+	577M	NM:i:0	om:f:0.01
+L	1	+	27	+	365M	NM:i:0	om:f:0.01
+L	27	+	4	-	226M	NM:i:0	om:f:0.01
+L	27	+	11	-	156M	NM:i:0	om:f:0.01
+L	12	+	27	+	108M	NM:i:0	om:f:0.01
+L	15	+	27	+	531M	NM:i:0	om:f:0.01
+L	16	+	27	+	195M	NM:i:0	om:f:0.01
+L	18	+	27	+	299M	NM:i:0	om:f:0.01
+L	27	+	23	+	132M	NM:i:0	om:f:0.01
+L	28	+	3	+	192M	NM:i:0	om:f:0.01
+L	28	+	5	-	464M	NM:i:0	om:f:0.01
+L	28	+	8	-	388M	NM:i:0	om:f:0.01
+L	9	-	28	+	447M	NM:i:0	om:f:0.01
+L	4	-	29	+	115M	NM:i:0	om:f:0.01
+L	6	+	29	+	587M	NM:i:0	om:f:0.01
+L	7	-	29	+	309M	NM:i:0	om:f:0.01
+L	11	-	29	+	185M	NM:i:0	om:f:0.01
+L	29	+	13	-	291M	NM:i:0	om:f:0.01
+L	29	+	14	+	282M	NM:i:0	om:f:0.01
+L	29	+	19	+	576M	NM:i:0	om:f:0.01
+L	23	+	29	+	209M	NM:i:0	om:f:0.01
+L	29	+	25	-	179M	NM:i:0	om:f:0.01
+L	24	-	30	-	216M	NM:i:0	om:f:0.01
+L	26	+	30	-	238M	NM:i:0	om:f:0.01
+L	24	-	31	+	144M	NM:i:0	om:f:0.01
+L	26	+	31	+	166M	NM:i:0	om:f:0.01
+L	30	-	31	+	527M	NM:i:0	om:f:0.01
+L	24	-	32	-	255M	NM:i:0	om:f:0.01
+L	26	+	32	-	277M	NM:i:0	om:f:0.01
+L	32	-	30	-	560M	NM:i:0	om:f:0.01
+L	32	-	31	+	488M	NM:i:0	om:f:0.01
+L	4	-	33	+	563M	NM:i:0	om:f:0.01
+L	33	+	6	+	163M	NM:i:0	om:f:0.01
+L	33	+	7	-	441M	NM:i:0	om:f:0.01
+L	33	+	11	-	565M	NM:i:0	om:f:0.01
+L	15	+	33	+	122M	NM:i:0	om:f:0.01
+L	33	+	19	+	128M	NM:i:0	om:f:0.01
+L	33	+	23	+	541M	NM:i:0	om:f:0.01
+L	27	+	33	+	190M	NM:i:0	om:f:0.01
+L	33	+	29	+	151M	NM:i:0	om:f:0.01
+L	34	-	5	-	112M	NM:i:0	om:f:0.01
+L	34	-	9	-	399M	NM:i:0	om:f:0.01
+L	21	+	34	-	314M	NM:i:0	om:f:0.01
+L	34	-	28	+	247M	NM:i:0	om:f:0.01
+L	35	+	21	+	247M	NM:i:0	om:f:0.01
+L	30	-	35	+	293M	NM:i:0	om:f:0.01
+L	31	+	35	+	365M	NM:i:0	om:f:0.01
+L	32	-	35	+	254M	NM:i:0	om:f:0.01
+L	4	-	36	-	364M	NM:i:0	om:f:0.01
+L	36	-	6	+	362M	NM:i:0	om:f:0.01
+L	7	-	36	-	558M	NM:i:0	om:f:0.01
+L	11	-	36	-	434M	NM:i:0	om:f:0.01
+L	36	-	19	+	327M	NM:i:0	om:f:0.01
+L	23	+	36	-	458M	NM:i:0	om:f:0.01
+L	36	-	29	+	350M	NM:i:0	om:f:0.01
+L	33	+	36	-	400M	NM:i:0	om:f:0.01
+L	6	+	37	+	517M	NM:i:0	om:f:0.01
+L	7	-	37	+	239M	NM:i:0	om:f:0.01
+L	11	-	37	+	115M	NM:i:0	om:f:0.01
+L	37	+	13	-	361M	NM:i:0	om:f:0.01
+L	37	+	14	+	352M	NM:i:0	om:f:0.01
+L	19	+	37	+	552M	NM:i:0	om:f:0.01
+L	23	+	37	+	139M	NM:i:0	om:f:0.01
+L	37	+	25	-	249M	NM:i:0	om:f:0.01
+L	29	+	37	+	529M	NM:i:0	om:f:0.01
+L	36	-	37	+	280M	NM:i:0	om:f:0.01
+L	38	-	3	+	431M	NM:i:0	om:f:0.01
+L	5	-	38	-	495M	NM:i:0	om:f:0.01
+L	8	-	38	-	571M	NM:i:0	om:f:0.01
+L	9	-	38	-	208M	NM:i:0	om:f:0.01
+L	28	+	38	-	360M	NM:i:0	om:f:0.01
+L	39	-	9	-	138M	NM:i:0	om:f:0.01
+L	21	+	39	-	575M	NM:i:0	om:f:0.01
+L	39	-	34	-	338M	NM:i:0	om:f:0.01
+L	35	+	39	-	223M	NM:i:0	om:f:0.01
+L	4	-	40	-	356M	NM:i:0	om:f:0.01
+L	40	-	6	+	370M	NM:i:0	om:f:0.01
+L	7	-	40	-	550M	NM:i:0	om:f:0.01
+L	11	-	40	-	426M	NM:i:0	om:f:0.01
+L	40	-	19	+	335M	NM:i:0	om:f:0.01
+L	23	+	40	-	450M	NM:i:0	om:f:0.01
+L	40	-	29	+	358M	NM:i:0	om:f:0.01
+L	33	+	40	-	392M	NM:i:0	om:f:0.01
+L	36	-	40	-	591M	NM:i:0	om:f:0.01
+L	40	-	37	+	288M	NM:i:0	om:f:0.01
+L	41	-	3	+	429M	NM:i:0	om:f:0.01
+L	5	-	41	-	497M	NM:i:0	om:f:0.01
+L	8	-	41	-	573M	NM:i:0	om:f:0.01
+L	9	-	41	-	210M	NM:i:0	om:f:0.01
+L	28	+	41	-	362M	NM:i:0	om:f:0.01
+L	41	-	38	-	597M	NM:i:0	om:f:0.01
+L	42	+	2	+	265M	NM:i:0	om:f:0.01
+L	6	+	42	+	111M	NM:i:0	om:f:0.01
+L	42	+	10	-	308M	NM:i:0	om:f:0.01
+L	13	-	42	+	431M	NM:i:0	om:f:0.01
+L	14	+	42	+	440M	NM:i:0	om:f:0.01
+L	42	+	17	-	443M	NM:i:0	om:f:0.01
+L	19	+	42	+	146M	NM:i:0	om:f:0.01
+L	42	+	20	-	464M	NM:i:0	om:f:0.01
+L	42	+	22	-	292M	NM:i:0	om:f:0.01
+L	25	-	42	+	543M	NM:i:0	om:f:0.01
+L	29	+	42	+	123M	NM:i:0	om:f:0.01
+L	37	+	42	+	193M	NM:i:0	om:f:0.01
+L	2	+	43	+	191M	NM:i:0	om:f:0.01
+L	10	-	43	+	148M	NM:i:0	om:f:0.01
+L	22	-	43	+	164M	NM:i:0	om:f:0.01
+L	24	-	43	+	478M	NM:i:0	om:f:0.01
+L	26	+	43	+	500M	NM:i:0	om:f:0.01
+L	43	+	30	-	337M	NM:i:0	om:f:0.01
+L	43	+	31	+	265M	NM:i:0	om:f:0.01
+L	43	+	32	-	376M	NM:i:0	om:f:0.01
+L	4	-	44	+	544M	NM:i:0	om:f:0.01
+L	44	+	6	+	182M	NM:i:0	om:f:0.01
+L	44	+	7	-	460M	NM:i:0	om:f:0.01
+L	44	+	11	-	584M	NM:i:0	om:f:0.01
+L	15	+	44	+	103M	NM:i:0	om:f:0.01
+L	44	+	19	+	147M	NM:i:0	om:f:0.01
+L	44	+	23	+	560M	NM:i:0	om:f:0.01
+L	27	+	44	+	171M	NM:i:0	om:f:0.01
+L	44	+	29	+	170M	NM:i:0	om:f:0.01
+L	33	+	44	+	580M	NM:i:0	om:f:0.01
+L	44	+	36	-	419M	NM:i:0	om:f:0.01
+L	44	+	37	+	100M	NM:i:0	om:f:0.01
+L	44	+	40	-	411M	NM:i:0	om:f:0.01
+L	45	+	21	+	582M	NM:i:0	om:f:0.01
+L	45	+	34	-	297M	NM:i:0	om:f:0.01
+L	35	+	45	+	264M	NM:i:0	om:f:0.01
+L	45	+	39	-	558M	NM:i:0	om:f:0.01
+L	4	-	46	+	276M	NM:i:0	om:f:0.01
+L	46	+	6	+	450M	NM:i:0	om:f:0.01
+L	7	-	46	+	470M	NM:i:0	om:f:0.01
+L	11	-	46	+	346M	NM:i:0	om:f:0.01
+L	46	+	13	-	130M	NM:i:0	om:f:0.01
+L	46	+	14	+	121M	NM:i:0	om:f:0.01
+L	46	+	19	+	415M	NM:i:0	om:f:0.01
+L	23	+	46	+	370M	NM:i:0	om:f:0.01
+L	46	+	29	+	438M	NM:i:0	om:f:0.01
+L	33	+	46	+	312M	NM:i:0	om:f:0.01
+L	36	-	46	+	511M	NM:i:0	om:f:0.01
+L	46	+	37	+	368M	NM:i:0	om:f:0.01
+L	40	-	46	+	519M	NM:i:0	om:f:0.01
+L	44	+	46	+	331M	NM:i:0	om:f:0.01
+L	47	+	21	+	211M	NM:i:0	om:f:0.01
+L	30	-	47	+	329M	NM:i:0	om:f:0.01
+L	31	+	47	+	401M	NM:i:0	om:f:0.01
+L	32	-	47	+	290M	NM:i:0	om:f:0.01
+L	47	+	35	+	563M	NM:i:0	om:f:0.01
+L	47	+	39	-	187M	NM:i:0	om:f:0.01
+L	47	+	45	+	228M	NM:i:0	om:f:0.01
+L	48	-	3	+	437M	NM:i:0	om:f:0.01
+L	5	-	48	-	489M	NM:i:0	om:f:0.01
+L	8	-	48	-	565M	NM:i:0	om:f:0.01
+L	9	-	48	-	202M	NM:i:0	om:f:0.01
+L	28	+	48	-	354M	NM:i:0	om:f:0.01
+L	38	-	48	-	593M	NM:i:0	om:f:0.01
+L	41	-	48	-	591M	NM:i:0	om:f:0.01
+L	49	+	2	+	250M	NM:i:0	om:f:0.01
+L	6	+	49	+	126M	NM:i:0	om:f:0.01
+L	49	+	10	-	293M	NM:i:0	om:f:0.01
+L	13	-	49	+	446M	NM:i:0	om:f:0.01
+L	14	+	49	+	455M	NM:i:0	om:f:0.01
+L	49	+	17	-	428M	NM:i:0	om:f:0.01
+L	19	+	49	+	161M	NM:i:0	om:f:0.01
+L	49	+	20	-	449M	NM:i:0	om:f:0.01
+L	49	+	22	-	277M	NM:i:0	om:f:0.01
+L	25	-	49	+	558M	NM:i:0	om:f:0.01
+L	29	+	49	+	138M	NM:i:0	om:f:0.01
+L	37	+	49	+	208M	NM:i:0	om:f:0.01
+L	49	+	42	+	584M	NM:i:0	om:f:0.01
+L	50	+	9	-	242M	NM:i:0	om:f:0.01
+L	21	+	50	+	471M	NM:i:0	om:f:0.01
+L	50	+	34	-	442M	NM:i:0	om:f:0.01
+L	35	+	50	+	119M	NM:i:0	om:f:0.01
+L	39	-	50	+	495M	NM:i:0	om:f:0.01
+L	45	+	50	+	454M	NM:i:0	om:f:0.01
